@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.4d4dcc45.css",
-    "main.js": "/static/js/main.6c72a94d.js",
+    "main.css": "/static/css/main.705b2c7b.css",
+    "main.js": "/static/js/main.f49e477e.js",
+    "static/media/work_img01_pc.png": "/static/media/work_img01_pc.5b2c21b009837ea587ff.png",
+    "static/media/work_img03_pc.png": "/static/media/work_img03_pc.9751a0c249be8f1e52c1.png",
+    "static/media/work_img02_pc.png": "/static/media/work_img02_pc.b71fc17a36d4f46851aa.png",
+    "static/media/jihyeon_ko_resume_2024.pdf": "/static/media/jihyeon_ko_resume_2024.62d8026bb97c69de2645.pdf",
     "static/media/avatar.png": "/static/media/avatar.0a187a9d3f99e7a64b71.png",
-    "static/media/work_img01_pc.png": "/static/media/work_img01_pc.85dc702d58da59605f03.png",
     "static/media/flogKorea.png": "/static/media/flogKorea.98db5d823ce341d4118d.png",
-    "static/media/work_img03_pc.png": "/static/media/work_img03_pc.c1e300883bfc6d662f9c.png",
-    "static/media/work_img02_pc.png": "/static/media/work_img02_pc.e65c401b10dcbc530603.png",
     "index.html": "/index.html",
-    "main.4d4dcc45.css.map": "/static/css/main.4d4dcc45.css.map",
-    "main.6c72a94d.js.map": "/static/js/main.6c72a94d.js.map"
+    "main.705b2c7b.css.map": "/static/css/main.705b2c7b.css.map",
+    "main.f49e477e.js.map": "/static/js/main.f49e477e.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d4dcc45.css",
-    "static/js/main.6c72a94d.js"
+    "static/css/main.705b2c7b.css",
+    "static/js/main.f49e477e.js"
   ]
 }
